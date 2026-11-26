@@ -94,8 +94,9 @@ Bootstrap 5 HTML CSS Template
                         </li>
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle "  data-bs-toggle="dropdown">Documentacion</a>
+                            <a class="nav-link dropdown-toggle "  data-bs-toggle="dropdown">Importantes</a>
                             <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
+                                <li><a class="dropdown-item" href="intranet_drcys/public/index.php">INTRANET</a></li>
                                 <li><a class="dropdown-item" href="hipertension.php">DX_Diabe-Hiperte</a></li>
                                 <li><a class="dropdown-item" href="rmcv.php">RM Curso de Vida</a></li>
                                 
